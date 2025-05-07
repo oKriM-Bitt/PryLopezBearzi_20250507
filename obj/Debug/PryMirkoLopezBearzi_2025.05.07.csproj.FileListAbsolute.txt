@@ -1,0 +1,10 @@
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\bin\Debug\PryMirkoLopezBearzi_2025.05.07.exe.config
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\bin\Debug\PryMirkoLopezBearzi_2025.05.07.exe
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\bin\Debug\PryMirkoLopezBearzi_2025.05.07.pdb
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025.05.07.csproj.AssemblyReference.cache
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025._05._07.Properties.Resources.resources
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025.05.07.csproj.GenerateResource.cache
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025.05.07.csproj.CoreCompileInputs.cache
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025.05.07.exe
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025.05.07.pdb
+E:\Escritorio\PryMirkoLopezBearzi_2025.05.07\obj\Debug\PryMirkoLopezBearzi_2025._05._07.FrmInicio.resources
